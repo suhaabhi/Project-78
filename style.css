@@ -1,0 +1,22 @@
+body{
+    background: rgb(147,46,89);
+    background: radial-gradient(circle, rgba(147,46,89,1) 30%, rgba(90,38,110,1) 52%, rgba(41,32,127,1) 80%);
+}
+
+ button{
+     font-size: 25px;
+     background-color: lightpink;
+     color: cyan;
+     border-radius: 20%;
+ }
+
+ h1{
+     font-size: 40px;
+     color:lightpink;
+     font-weight: bold;
+ }
+
+ h2{
+     font-size: 30px;
+     color:cyan;
+ }
